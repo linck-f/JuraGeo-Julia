@@ -1,0 +1,3 @@
+50   626    87.5               -nx,xmn,xsiz
+59   580    87.5               -ny,ymn,ysiz
+1     0      1.0               -nz,zmn,zsiz
